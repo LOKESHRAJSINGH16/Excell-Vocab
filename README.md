@@ -1,2 +1,2 @@
-# Excell-Vocab
-This is a Google Chrome Extension to understand the meaning of word by just selecting it.
+Excel vocab is a chrome extension used to find the meaning of the selected word . 
+Just select the word and exxtension will automatically display the meaning of it.
